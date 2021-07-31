@@ -5,7 +5,7 @@ import { BitmapsGenerator, SVGHandler } from "bibata-zebra-core";
 const root = path.resolve(__dirname, "../../../../");
 const svgDir = path.resolve(root, "svg", "modern");
 
-const themeName = "Bibata-zebra-Modern";
+const themeName = "Bibata-Zebra-Modern";
 const trueAnimated = ["wait", "left_ptr_watch"];
 
 const main = async () => {
@@ -25,7 +25,7 @@ const main = async () => {
   for (let { key, content } of svg.getAnimated()) {
     console.log(" -> Saving", key, "...");
     if (trueAnimated.includes(key)) {
-      await png.generateAnimated(browser, content, key, { playbackRate: 0.3 });
+      await png.generateAnimated(browser, content, key, { playbackRate: 0.45 });
     } else {
       await png.generateAnimated(browser, content, key);
     }
