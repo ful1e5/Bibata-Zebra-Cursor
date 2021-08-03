@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>'Semi-Animated' Bibata cursors with zebra strips</b> 
+  <b>'Semi-Animated' Bibata cursors with zebra stripes 🦓</b> 
 </p>
 
 <!-- Badges -->
@@ -37,11 +37,13 @@
   </a>
 
   <!-- Fourth Row -->
+  <!-- TODO: -->
   <br />
   <a href="">
     <img alt="License" src="https://img.shields.io/badge/-Linux-grey?logo=linux" />
   </a>
 
+  <!-- TODO: -->
   <a href="">
     <img alt="License" src="https://img.shields.io/badge/-Windows-blue?logo=windows" />
   </a>
@@ -89,6 +91,7 @@
 ## Quick install
 
 <p align="center">
+  <!-- TODO: -->
   <a href="" >
     <img title="Bibata Pling Store" width="40%" src="https://imgur.com/VxSgrWw.png">
   </a>
@@ -270,4 +273,4 @@ Check [CONTRIBUTING.md](CONTRIBUTING.md), any suggestions for features and contr
 
 <a href="https://www.buymeacoffee.com/Nt7Wg4V" >
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
-</a>
+</ac
