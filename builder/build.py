@@ -96,8 +96,8 @@ args = parser.parse_args()
 bitmaps_dir = Path(args.png_dir).absolute()
 name = bitmaps_dir.stem
 comments = {
-    "Bibata-Zebra-Modern": "Rounded-edge Bibata cursors with Zebra colors",
-    "Bibata-Zebra-Original": "Sharp-edge Bibata cursors with Zebra colors",
+    "Bibata-Zebra-Modern": "Rounded edge Bibata cursors with Zebra stripes",
+    "Bibata-Zebra-Original": "Sharp edge Bibata cursors with Zebra stripes",
 }
 
 

@@ -80,14 +80,8 @@ prepare: bitmaps themes
 	@rm -rf bin && mkdir bin
 	@cd bitmaps && zip -r $(BIN_DIR)/bitmaps.zip * && cd ..
 	@cd themes
-	#
-	# Bibata-Modern
-	#
 	@tar -czvf $(BIN_DIR)/Bibata-Zebra-Modern.tar.gz Bibata-Zebra-Modern
 	@zip -r $(BIN_DIR)/Bibata-Zebra-Modern-Windows.zip Bibata-Zebra-Modern-Windows
-	#
-	# Bibata-Original
-	#
 	@tar -czvf $(BIN_DIR)/Bibata-Zebra-Original.tar.gz Bibata-Zebra-Original
 	@zip -r $(BIN_DIR)/Bibata-Zebra-Original-Windows.zip Bibata-Zebra-Original-Windows
 	@cd ..

@@ -8,8 +8,12 @@ const svgDir = path.resolve(root, "svg", "modern");
 const themeName = "Bibata-Zebra-Modern";
 const trueAnimated = ["wait", "left_ptr_watch"];
 
+const log = (key: string) => {
+  console.log(`Generating .png files for '${key}'`);
+};
+
 const main = async () => {
-  console.log("=>", themeName);
+  console.log("Preparing", themeName, "...");
 
   const bitmapsDir = path.resolve(root, "bitmaps", themeName);
   const svg = new SVGHandler.SvgDirectoryParser(svgDir);
@@ -18,16 +22,16 @@ const main = async () => {
   const browser = await png.getBrowser();
 
   for (let { key, content } of svg.getStatic()) {
-    console.log(" -> Saving", key, "...");
+    log(key);
     await png.generateStatic(browser, content, key);
   }
 
   for (let { key, content } of svg.getAnimated()) {
-    console.log(" -> Saving", key, "...");
+    log(key);
     if (trueAnimated.includes(key)) {
       await png.generateAnimated(browser, content, key, { playbackRate: 0.45 });
     } else {
-      await png.generateAnimated(browser, content, key);
+      await png.generateAnimated(browser, content, key, { playbackRate: 0.95 });
     }
   }
 
