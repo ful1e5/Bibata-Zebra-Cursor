@@ -1,7 +1,7 @@
 <!-- Branding -->
 
 <p align="center">
-  <img src="./svg/branding/logo.svg" width="20%">
+  <img src="./branding/logo.svg" width="20%">
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@
 ## Preview
 
 <p align="center">
-  <img title="Bibata Zebra" width="90%" src="./svg/branding/preview.svg">
+  <img title="Bibata Zebra" width="90%" src="./branding/preview.svg">
   </br>
   <sub>Bibata Zebra</sub>
 </p>
