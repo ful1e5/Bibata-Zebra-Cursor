@@ -37,14 +37,12 @@
   </a>
 
   <!-- Fourth Row -->
-  <!-- TODO: -->
   <br />
-  <a href="">
+  <a href="https://www.pling.com/p/1570301/">
     <img alt="License" src="https://img.shields.io/badge/-Linux-grey?logo=linux" />
   </a>
 
-  <!-- TODO: -->
-  <a href="">
+  <a href="https://www.pling.com/p/1570301/">
     <img alt="License" src="https://img.shields.io/badge/-Windows-blue?logo=windows" />
   </a>
 
@@ -91,8 +89,7 @@
 ## Quick install
 
 <p align="center">
-  <!-- TODO: -->
-  <a href="" >
+  <a href="https://www.pling.com/p/1570301/" >
     <img title="Bibata Pling Store" width="40%" src="https://imgur.com/VxSgrWw.png">
   </a>
 </p>
