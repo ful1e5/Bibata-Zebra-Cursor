@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
-<!-- ## [v1.0.0] -  -->
+## [v1.0.0] - 7 Aug 2021
 
 ### Added
 
@@ -15,5 +15,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Logo and badges
 - CI/CD Pipelines
 
-<!-- [unreleased]: https://github.com/ful1e5/Bibata-Zebra-Cursor/compare/v1.0.0...main -->
-<!-- [v1.0.0]: https://github.com/ful1e5/Bibata-Zebra-Cursor/tree/v1.0.0 -->
+[unreleased]: https://github.com/ful1e5/Bibata-Zebra-Cursor/compare/v1.0.0...main
+[v1.0.0]: https://github.com/ful1e5/Bibata-Zebra-Cursor/tree/v1.0.0

@@ -1,6 +1,6 @@
 {
   "name": "bibata-zebra-cursor",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "'Semi-Animated' Bibata cursors with zebra colors",
   "main": "index.js",
   "author": "Kaiz Khatri",
