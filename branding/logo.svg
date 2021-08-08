@@ -1,9 +1,22 @@
 <?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" fill="none">
+  <g clip-path="url(#clip0)">
+    <g filter="url(#filter0_f)">
+      <rect x="55.3752" y="66" width="388.625" height="386.625" rx="185" fill="url(#paint0_radial)"/>
+    </g>
+    <g filter="url(#filter1_d)">
+      <rect x="23.125" y="22.2277" width="453.125" height="450.313" rx="185" fill="url(#paint1_radial)" stroke="#F3EFEF" stroke-width="3"/>
+      <g filter="url(#filter2_d)">
+        <path d="M203.464 101.628C205.923 100.89 208.576 101.187 210.841 102.449C210.897 102.481 210.953 102.512 211.009 102.545C238.252 118.443 303.522 175.404 320.399 232.259C327.394 255.82 328.662 267.698 330.142 288.993C339.885 296.226 345.794 296.748 351.655 311.439C359.026 329.912 363.447 344.378 363.447 344.378L321.561 341.188L317.163 364.721L242.984 387.395L223.292 370.766L193.541 395.513C193.541 395.513 189.535 380.927 185.421 364.666C180.931 346.923 186.463 342.727 191.724 329.426C181.726 311.436 176.401 300.797 169.533 277.666C152.626 220.711 183.538 134.869 197.655 106.56C198.846 104.169 203.461 101.63 203.461 101.63L203.464 101.628Z" fill="url(#bibata-zebra)"/>
+        <path d="M203.464 101.628C205.923 100.89 208.576 101.187 210.841 102.449C210.897 102.481 210.953 102.512 211.009 102.545C238.252 118.443 303.522 175.404 320.399 232.259C327.394 255.82 328.662 267.698 330.142 288.993C339.885 296.226 345.794 296.748 351.655 311.439C359.026 329.912 363.447 344.378 363.447 344.378L321.561 341.188L317.163 364.721L242.984 387.395L223.292 370.766L193.541 395.513C193.541 395.513 189.535 380.927 185.421 364.666C180.931 346.923 186.463 342.727 191.724 329.426C181.726 311.436 176.401 300.797 169.533 277.666C152.626 220.711 183.538 134.869 197.655 106.56C198.846 104.169 203.461 101.63 203.461 101.63L203.464 101.628Z" fill="url(#bibata-zebra)"/>
+        <path d="M203.464 101.628C205.923 100.89 208.576 101.187 210.841 102.449C210.897 102.481 210.953 102.512 211.009 102.545C238.252 118.443 303.522 175.404 320.399 232.259C327.394 255.82 328.662 267.698 330.142 288.993C339.885 296.226 345.794 296.748 351.655 311.439C359.026 329.912 363.447 344.378 363.447 344.378L321.561 341.188L317.163 364.721L242.984 387.395L223.292 370.766L193.541 395.513C193.541 395.513 189.535 380.927 185.421 364.666C180.931 346.923 186.463 342.727 191.724 329.426C181.726 311.436 176.401 300.797 169.533 277.666C152.626 220.711 183.538 134.869 197.655 106.56C198.846 104.169 203.461 101.63 203.461 101.63L203.464 101.628Z" stroke="black" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </g>
+  </g>
   <defs>
-    <pattern id="bibata-zebra" patternUnits="userSpaceOnUse" x="0" y="0" width="900" height="900">
+    <pattern id="bibata-zebra" patternUnits="userSpaceOnUse" x="0" y="0" width="400" height="400">
       <g>
-        <g transform="rotate(20 50 50) scale(10.8)">
+        <g transform="rotate(20 50 50) scale(4.8)">
           <rect x="-20" y="-10" width="10" height="120" fill="#000000"/>
           <rect x="-10" y="-10" width="10" height="120" fill="#ffffff"/>
           <rect x="0" y="-10" width="10" height="120" fill="#000000"/>
@@ -19,29 +32,44 @@
           <rect x="100" y="-10" width="10" height="120" fill="#000000"/>
           <rect x="110" y="-10" width="10" height="120" fill="#000000"/>
         </g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;234 0" keyTimes="0;1" dur="1s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0;108 0" keyTimes="0;1" dur="1s" repeatCount="indefinite"/>
       </g>
     </pattern>
-    <filter id="filter0_d" x="242.655" y="72.1717" width="619.736" height="868.814" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <filter id="filter0_f" x="-24.6248" y="-14" width="548.625" height="546.625" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="40" result="effect1_foregroundBlur"/>
+    </filter>
+    <filter id="filter1_d" x="17.625" y="20.7277" width="464.125" height="461.313" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-      <feOffset dx="23" dy="13"/>
-      <feGaussianBlur stdDeviation="3.5"/>
-      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+      <feOffset dy="4"/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
       <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
       <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
     </filter>
+    <filter id="filter2_d" x="150.608" y="91.2298" width="226.839" height="322.284" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="4"/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(401.366 567.086) rotate(-111.512) scale(561.425 564.724)">
+      <stop offset="0.272745" stop-color="white"/>
+      <stop offset="0.566179" stop-color="#F5F5F5"/>
+      <stop offset="0.95607" stop-color="#F4FCFF"/>
+    </radialGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(426.54 605.857) rotate(-111.533) scale(654.001 658.357)">
+      <stop offset="0.272745" stop-color="white"/>
+      <stop offset="0.566179" stop-color="#F5F5F5"/>
+      <stop offset="0.95607" stop-color="#F4FCFF"/>
+    </radialGradient>
+    <clipPath id="clip0">
+      <rect width="500" height="500" fill="white"/>
+    </clipPath>
   </defs>
-  <g filter="url(#filter0_d)">
-    <path d="M373.127 98.2525C379.801 96.2493 387.005 97.0543 393.151 100.48C393.305 100.568 393.456 100.652 393.609 100.741C467.556 143.895 644.729 298.513 690.541 452.841C709.527 516.797 712.97 549.04 716.988 606.842C743.434 626.475 759.473 627.893 775.383 667.77C795.391 717.914 807.39 757.18 807.39 757.18L693.695 748.523L681.757 812.401L480.403 873.948L426.948 828.811L346.191 895.986C346.191 895.986 335.318 856.391 324.15 812.252C311.963 764.089 326.979 752.701 341.26 716.595C314.119 667.762 299.667 638.883 281.024 576.096C235.129 421.494 319.04 188.482 357.36 111.641C360.591 105.15 373.119 98.2569 373.119 98.2569L373.127 98.2525Z" fill="black"/>
-    <path d="M373.127 98.2525C379.801 96.2493 387.005 97.0543 393.151 100.48C393.305 100.568 393.456 100.652 393.609 100.741C467.556 143.895 644.729 298.513 690.541 452.841C709.527 516.797 712.97 549.04 716.988 606.842C743.434 626.475 759.473 627.893 775.383 667.77C795.391 717.914 807.39 757.18 807.39 757.18L693.695 748.523L681.757 812.401L480.403 873.948L426.948 828.811L346.191 895.986C346.191 895.986 335.318 856.391 324.15 812.252C311.963 764.089 326.979 752.701 341.26 716.595C314.119 667.762 299.667 638.883 281.024 576.096C235.129 421.494 319.04 188.482 357.36 111.641C360.591 105.15 373.119 98.2569 373.119 98.2569L373.127 98.2525Z" fill="black"/>
-    <path d="M373.127 98.2525C379.801 96.2493 387.005 97.0543 393.151 100.48C393.305 100.568 393.456 100.652 393.609 100.741C467.556 143.895 644.729 298.513 690.541 452.841C709.527 516.797 712.97 549.04 716.988 606.842C743.434 626.475 759.473 627.893 775.383 667.77C795.391 717.914 807.39 757.18 807.39 757.18L693.695 748.523L681.757 812.401L480.403 873.948L426.948 828.811L346.191 895.986C346.191 895.986 335.318 856.391 324.15 812.252C311.963 764.089 326.979 752.701 341.26 716.595C314.119 667.762 299.667 638.883 281.024 576.096C235.129 421.494 319.04 188.482 357.36 111.641C360.591 105.15 373.119 98.2569 373.119 98.2569L373.127 98.2525Z" stroke="black" stroke-width="50" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-  <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="267" y="97" width="541" height="799">
-    <path d="M373.127 98.2524C379.801 96.2491 387.005 97.0542 393.151 100.48C393.305 100.568 393.456 100.652 393.609 100.741C467.556 143.895 644.729 298.513 690.541 452.841C709.527 516.796 712.97 549.039 716.988 606.842C743.434 626.475 759.473 627.893 775.383 667.77C795.391 717.914 807.39 757.18 807.39 757.18L693.695 748.523L681.757 812.401L480.403 873.948L426.948 828.811L346.191 895.985C346.191 895.985 335.318 856.39 324.15 812.252C311.963 764.089 326.979 752.701 341.26 716.595C314.119 667.762 299.667 638.883 281.024 576.096C235.129 421.494 319.04 188.482 357.36 111.641C360.591 105.15 373.119 98.2567 373.119 98.2567L373.127 98.2524Z" fill="white"/>
-    <path d="M373.127 98.2524C379.801 96.2491 387.005 97.0542 393.151 100.48C393.305 100.568 393.456 100.652 393.609 100.741C467.556 143.895 644.729 298.513 690.541 452.841C709.527 516.796 712.97 549.039 716.988 606.842C743.434 626.475 759.473 627.893 775.383 667.77C795.391 717.914 807.39 757.18 807.39 757.18L693.695 748.523L681.757 812.401L480.403 873.948L426.948 828.811L346.191 895.985C346.191 895.985 335.318 856.39 324.15 812.252C311.963 764.089 326.979 752.701 341.26 716.595C314.119 667.762 299.667 638.883 281.024 576.096C235.129 421.494 319.04 188.482 357.36 111.641C360.591 105.15 373.119 98.2567 373.119 98.2567L373.127 98.2524Z" fill="white"/>
-  </mask>
-  <g mask="url(#mask0)">
-    <rect rx="0" ry="0" x="0" y="0" stroke="#000000" stroke-width="0" width="900" height="900" fill="url(#bibata-zebra)"/>
-  </g>
 </svg>
