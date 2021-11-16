@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+### Added
+
+-
+
+### Changed
+
+- GitHub action renamed to `build`
+
 ## [v1.0.0] - 7 Aug 2021
 
 ### Added
