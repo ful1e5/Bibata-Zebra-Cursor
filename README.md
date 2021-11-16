@@ -1,67 +1,17 @@
-<!-- Branding -->
+# Bibata Zebra
 
-<p align="center">
-  <img src="./branding/logo.svg" width="20%">
-</p>
+'Semi-Animated' Bibata cursors with zebra stripes
 
-<p align="center">
-  <b>'Semi-Animated' Bibata cursors with zebra stripes 🦓</b> 
-</p>
+[![build](https://github.com/ful1e5/Bibata-Zebra-Cursor/actions/workflows/build.yml/badge.svg)](https://github.com/ful1e5/Bibata-Zebra-Cursor/actions/workflows/build.yml)
+[![CodeFactor](https://www.codefactor.io/repository/github/ful1e5/bibata-zebra-cursor/badge)](https://www.codefactor.io/repository/github/ful1e5/bibata-zebra-cursor)
+[![Twitter](https://img.shields.io/badge/twitter-ful1e5-blue)](https://twitter.com/ful1e5)
 
-<!-- Badges -->
-<p align="center">
+### Styles
 
-  <!-- First Row -->
-  <a href="https://github.com/ful1e5/Bibata-Zebra-Cursor/actions">
-    <img alt="GitHub Action Build" src="https://github.com/ful1e5/Bibata-Zebra-Cursor/workflows/ci/badge.svg"/>
-  </a>
+- **Original :** Sharp edge Bibata Cursors
+- **Modern :** Round edge Bibata Cursors
 
-  <!-- Second Row -->
-  </br >
-  <a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html">
-    <img alt="npm type definitions" src="https://img.shields.io/npm/types/typescript">
-  </a>
-
-  <a href="https://github.com/ful1e5/clickgen">
-    <img alt="Clickgen" src="https://img.shields.io/badge/theme%20builder-clickgen-FD0542" />
-  </a>
-
-  <!-- Third Row -->
-  </br >
-  <a href="https://github.com/ful1e5/Bibata-Zebra-Cursor/blob/main/LICENSE" >
-    <img alt="License" src="https://img.shields.io/github/license/ful1e5/Bibata-Zebra-Cursor?color=0081FB" />
-  </a>
-
-  <a href="https://github.com/ful1e5/Bibata-Zebra-Cursor/releases" >
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ful1e5/Bibata-Zebra-Cursor">
-  </a>
-
-  <!-- Fourth Row -->
-  <br />
-  <a href="https://www.pling.com/p/1570301/">
-    <img alt="License" src="https://img.shields.io/badge/-Linux-grey?logo=linux" />
-  </a>
-
-  <a href="https://www.pling.com/p/1570301/">
-    <img alt="License" src="https://img.shields.io/badge/-Windows-blue?logo=windows" />
-  </a>
-
-  <!-- Fifth Row -->
-  <br />
-  <a href="https://github.com/ful1e5">
-    <img alt="Made By Kaiz"  src="https://kaiz.vercel.app/api/badge" width="133" />
-  </a>
-
-</p>
-
-<!-- Intro -->
-
-# Bibata Styles
-
-- **Bibata Original :** Sharp edge Bibata Cursors
-- **Bibata Modern :** Round edge Bibata Cursors
-
-# Cursor Sizes
+### Cursor Sizes
 
 <kbd>22</kbd>
 <kbd>24</kbd>
@@ -76,7 +26,13 @@
 <kbd>88</kbd>
 <kbd>96</kbd>
 
-<!-- Preview -->
+## Quick install
+
+<p align="center">
+  <a href="https://www.pling.com/p/1570301/" >
+    <img title="Bibata Pling Store" width="40%" src="https://imgur.com/VxSgrWw.png">
+  </a>
+</p>
 
 ## Preview
 
@@ -84,14 +40,6 @@
   <img title="Bibata Zebra" width="90%" src="./branding/preview.svg">
   </br>
   <sub>Bibata Zebra</sub>
-</p>
-
-## Quick install
-
-<p align="center">
-  <a href="https://www.pling.com/p/1570301/" >
-    <img title="Bibata Pling Store" width="40%" src="https://imgur.com/VxSgrWw.png">
-  </a>
 </p>
 
 ## Manual Install
@@ -118,8 +66,6 @@ sudo mv Bibata-Zebra-* /usr/share/icons/
 3. Click 'Install' from the context menu, and authorize the modifications to your system.
 4. Open _Control Panel_ > _Personalization and Appearance_ > _Change mouse pointers_, and select **Bibata Zebra Cursors**.
 5. Click '**Apply**'.
-
-<!-- Build Dependencies -->
 
 # Dependencies
 
@@ -224,8 +170,6 @@ make windows WIN_SIZE=96            # Supports only one pixel-size
 
 > Windows installations steps are same as [these](#windows).
 
-<!-- Other Interesting projects -->
-
 # You may also like...
 
 - [**Bibata**](https://github.com/ful1e5/Bibata_Cursor) - Material based cursors
@@ -234,25 +178,17 @@ make windows WIN_SIZE=96            # Supports only one pixel-size
 - [**Bibata Adapta**](https://gitlab.com/cscs/Bibata_AdaptaBreath_Cursors) - Bibata Based Cursor Made for AdaptaBreath and Manjaro.
 - [**Bibata Translucent**](https://github.com/Silicasandwhich/Bibata_Cursor_Translucent) - Bibata translucent is a translucent flavor of the Bibata.
 
-<!-- Bug Report -->
-
 # Bugs
 
-Bugs 🐛 should be reported [here](https://github.com/ful1e5/Bibata-Zebra-Cursor/issues) on the Github issues page.
-
-<!-- Help -->
+Bugs should be reported [here](https://github.com/ful1e5/Bibata-Zebra-Cursor/issues) on the Github issues page.
 
 # Getting Help
 
 You can create a **issue**, I will help you. 🙂
 
-<!-- Contributions and Suggestion -->
-
 # Contributing
 
 Check [CONTRIBUTING.md](CONTRIBUTING.md), any suggestions for features and contributions to the continuing code masterelopment can be made via the issue tracker or code contributions via a `Fork` & `Pull requests`.
-
-<!-- This project isn't possible without these 👇🏻-->
 
 # Credit
 
@@ -263,11 +199,3 @@ Check [CONTRIBUTING.md](CONTRIBUTING.md), any suggestions for features and contr
 - [Yaru](https://github.com/ubuntu/yaru)
 - Emojis are taken from [here](https://emojipedia.org/)
 - Wedge loading from [loading.io](https://loading.io/spinner/wedges/-pie-wedge-pizza-circle-round-rotate) with **Microsoft** colors
-
-<!-- Support -->
-
-# Support
-
-<a href="https://www.buymeacoffee.com/Nt7Wg4V" >
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
-</ac
