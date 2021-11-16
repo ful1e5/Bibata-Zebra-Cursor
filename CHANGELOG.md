@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [unreleased]
 
+### Added
+
+- support creator with liberapay
+
+### Changed
+
+- GitHub action renamed to `build`
+- Minimal README.md
+- emojis removed from README.md
+
 ## [v1.0.0] - 7 Aug 2021
 
 ### Added
