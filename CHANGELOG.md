@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - GitHub action renamed to `build`
 - Minimal README.md
 - emojis removed from README.md
+- Fix `None` value warning in `builder/symlinks.py`
 
 ## [v1.0.0] - 7 Aug 2021
 
