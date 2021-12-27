@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - support creator with liberapay
 - funding file ignored in `build` GitHub Action
+- Add symlink for `top_left_arrow` cursor ful1e5/BreezeX_Cursor#10 ful1e5/BreezeX_Cursor#11
 
 ### Changed
 
