@@ -1,6 +1,6 @@
 # Bibata Zebra
 
-'Semi-Animated' Bibata cursors with zebra stripes
+'Semi-Animated' Bibata cursors with zebra stripes.
 
 [![build](https://github.com/ful1e5/Bibata-Zebra-Cursor/actions/workflows/build.yml/badge.svg)](https://github.com/ful1e5/Bibata-Zebra-Cursor/actions/workflows/build.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/ful1e5/bibata-zebra-cursor/badge)](https://www.codefactor.io/repository/github/ful1e5/bibata-zebra-cursor)
